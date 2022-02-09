@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle monaco",
+        "command": "monaco:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "monaco",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "monaco:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
