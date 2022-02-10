@@ -16,9 +16,10 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-    "monaco-editor": "^0.32.1",
+    "@vscode/codicons": "0.0.27",
     "css-loader": "^6.6.0",
     "file-loader": "^6.2.0",
+    "monaco-editor": "^0.32.1",
     "style-loader": "^3.3.1"
   }
 }
