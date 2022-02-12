@@ -7,11 +7,6 @@
   "scripts": {
     "build": "webpack --config config.js"
   },
-  "activationCommands": {
-    "atom-workspace": [
-      "monaco:new-file",
-      "monaco:from-current-tab"
-    ]
   },
   "repository": "https://github.com/atom/monaco",
   "license": "MIT",
