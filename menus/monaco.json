@@ -2,8 +2,14 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle monaco",
-        "command": "monaco:toggle"
+        "label": "Open with Monaco",
+        "command": "monaco:from-current-tab"
+      }
+    ],
+    ".tree-view .file.entry": [
+      {
+        "label": "Open with Monaco",
+        "command": "monaco:tree-view-open"
       }
     ]
   },
@@ -12,11 +18,11 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "monaco",
+          "label": "Monaco",
           "submenu": [
             {
-              "label": "Toggle",
-              "command": "monaco:toggle"
+              "label": "New file",
+              "command": "monaco:new-file"
             }
           ]
         }
