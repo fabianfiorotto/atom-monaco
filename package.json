@@ -7,6 +7,12 @@
   "scripts": {
     "build": "webpack --config config.js"
   },
+  "consumedServices": {
+    "status-bar": {
+      "versions": {
+        "^1.0.0": "consumeStatusBar"
+      }
+    }
   },
   "repository": "https://github.com/atom/monaco",
   "license": "MIT",
