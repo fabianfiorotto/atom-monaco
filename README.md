@@ -26,9 +26,9 @@ Right-click on a file and select "Open with Monaco"
 ### TODO LIST
 
 * [x] Go to line
-* [ ] Language Selector
+* [x] Language Selector
 * [ ] Take config from atom
-* [ ] Restre state
+* [ ] Restore state
 * [ ] Git Integration
 * [ ] Dark theme
 
