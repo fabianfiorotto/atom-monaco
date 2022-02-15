@@ -2,7 +2,7 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Open with Monaco",
+        "label": "To Monaco Editor",
         "command": "monaco:from-current-tab"
       }
     ],
