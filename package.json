@@ -3,7 +3,11 @@
   "main": "./lib/monaco",
   "version": "0.0.0",
   "description": "Open files using Monaco",
-  "keywords": [],
+  "repository": "https://github.com/fabianfiorotto/atom-monaco",
+  "keywords": [
+    "VSCode",
+    "Monaco"
+  ],
   "scripts": {
     "build": "webpack --config config.js"
   },
