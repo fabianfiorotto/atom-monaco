@@ -30,6 +30,6 @@ Right-click on a file and select "Open with Monaco"
 * [ ] Take config from atom
 * [ ] Restore state
 * [ ] Git Integration
-* [ ] Dark theme
+* [x] Theme selector
 
 ![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
