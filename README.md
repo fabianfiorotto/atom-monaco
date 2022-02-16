@@ -27,9 +27,14 @@ Right-click on a file and select "Open with Monaco"
 
 * [x] Go to line
 * [x] Language Selector
+* [x] Theme selector
 * [ ] Take config from atom
 * [ ] Restore state
+* [ ] Configure Minimap
 * [ ] Git Integration
-* [x] Theme selector
+
+### Dev requirements
+
+  * Webpack
 
 ![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
