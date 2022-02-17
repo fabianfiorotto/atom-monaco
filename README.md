@@ -29,7 +29,7 @@ Right-click on a file and select "Open with Monaco"
 * [x] Language Selector
 * [x] Theme selector
 * [x] Restore state
-* [ ] Save file prompt
+* [x] Save file prompt
 * [ ] Take config from atom
 * [ ] Configure Minimap
 * [ ] Git Integration
