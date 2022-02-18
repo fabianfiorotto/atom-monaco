@@ -30,8 +30,9 @@ Right-click on a file and select "Open with Monaco"
 * [x] Theme selector
 * [x] Restore state
 * [x] Save file prompt
-* [ ] Take config from atom
-* [ ] Configure Minimap
+* [x] Take config from atom (still some pending)
+* [x] Configure Minimap (still some pending)
+* [ ] Split Pane
 * [ ] Git Integration
 
 ### Dev requirements
