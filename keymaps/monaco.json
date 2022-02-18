@@ -1,5 +1,5 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o": "monaco:toggle"
+    "ctrl-alt-m": "monaco:from-current-tab"
   }
 }
