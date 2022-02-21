@@ -1,5 +1,9 @@
 {
   "atom-workspace": {
     "ctrl-alt-m": "monaco:from-current-tab"
+  },
+  ".monaco-editor" : {
+    "f7": "git-diff:move-to-next-diff",
+    "shift-f7": "git-diff:move-to-previous-diff"
   }
 }
