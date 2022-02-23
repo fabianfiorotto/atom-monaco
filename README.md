@@ -23,20 +23,23 @@ Right-click on a file and select "Open with Monaco"
 > Note: If you already have that file opened atom will try to reuse that editor. Use the first option instead.
 
 
+### FEATURES
+
+- Language Selector
+- Theme selector
+- Restore state
+- Take editor's config from atom
+- Configure Minimap
+- Split Pane
+- Git Integration
+
 ### TODO LIST
 
-* [x] Go to line
-* [x] Language Selector
-* [x] Theme selector
-* [x] Restore state
-* [x] Save file prompt
-* [x] Take config from atom (still some pending)
-* [x] Configure Minimap (still some pending)
-* [ ] Split Pane
-* [ ] Git Integration
+- [ ] Share suggestions
+
 
 ### Dev requirements
 
   * Webpack
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+![Screenshot](https://raw.githubusercontent.com/fabianfiorotto/atom-monaco/master/resources/screenshot.png)
