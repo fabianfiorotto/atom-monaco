@@ -36,6 +36,8 @@ Right-click on a file and select "Open with Monaco"
 ### TODO LIST
 
 - [ ] Share suggestions
+- [ ] Reveal in tree-view
+- [ ] Watch files.
 
 
 ### Dev requirements
