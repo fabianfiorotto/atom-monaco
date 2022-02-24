@@ -37,7 +37,6 @@ Right-click on a file and select "Open with Monaco"
 
 - [ ] Share suggestions
 - [ ] Reveal in tree-view
-- [ ] Watch files.
 
 
 ### Dev requirements
