@@ -1,3 +1,8 @@
+## 0.3.0 - Git integration
+* Git integration
+* Split Pane
+* Watch file.
+
 ## 0.2.1 - Config
 * Configure minimap
 * Use atom's config.
