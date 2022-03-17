@@ -4,6 +4,7 @@
   },
   ".monaco-editor" : {
     "f7": "git-diff:move-to-next-diff",
-    "shift-f7": "git-diff:move-to-previous-diff"
+    "shift-f7": "git-diff:move-to-previous-diff",
+    "ctrl-alt-m": "monaco:switch-back"
   }
 }
