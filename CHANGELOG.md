@@ -1,3 +1,8 @@
+## 0.3.1 - Scroll and cursor position
+* Snippets
+* Restore Scroll position and cursor
+* Command to switch back to atom's editor.
+
 ## 0.3.0 - Git integration
 * Git integration
 * Split Pane
